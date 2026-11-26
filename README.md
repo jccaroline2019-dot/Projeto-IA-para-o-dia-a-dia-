@@ -198,7 +198,7 @@ Antes de começar, mostre como pretende realizar essa tarefa. Desenvolva a solu�
 
 ### O Plano da IA
 
-<img width="462" height="616" alt="image" src="https://github.com/user-attachments/assets/c17ac29d-d022-4ee0-b65b-c87694a36617" />
+<img width="942" height="642" alt="image" src="https://github.com/user-attachments/assets/8c59c658-42cb-4144-97cf-75a9b4a61b5b" />
 
 
 A IA propôs a construção da solução em seis etapas:
