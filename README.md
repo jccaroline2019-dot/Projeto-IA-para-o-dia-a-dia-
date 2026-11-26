@@ -203,35 +203,36 @@ Antes de começar, mostre como pretende realizar essa tarefa. Desenvolva a solu�
 
 A IA propôs a construção da solução em seis etapas:
 
-Definição da tarefa a ser delegada.
+- Definição da tarefa a ser delegada.
 
-Definição das regras de planejamento.
+- Definição das regras de planejamento.
 
-Definição das estratégias de monitoramento.
+- Definição das estratégias de monitoramento.
 
-Estruturação da planilha.
+- Estruturação da planilha.
 
-Construção do prompt de delegação.
+- Construção do prompt de delegação.
 
-Implementação e testes práticos.
+- Implementação e testes práticos.
 
 Antes e durante a execução, participei das decisões, seguindo o conceito de supervisão e checkpoints apresentado nas aulas.
 
+
 Entre os principais ajustes realizados, destaco:
 
-Escolha do Google Planilhas como plataforma.
+- Escolha do Google Planilhas como plataforma.
 
-Definição da disponibilidade semanal e dos limites de autonomia.
+- Definição da disponibilidade semanal e dos limites de autonomia.
 
-Organização do planejamento mensal em metas semanais.
+- Organização do planejamento mensal em metas semanais.
 
-Correção das estimativas de esforço com base na minha experiência.
+- Correção das estimativas de esforço com base na minha experiência.
 
-Separação entre compromissos confirmados e provisórios.
+- Separação entre compromissos confirmados e provisórios.
 
-Acompanhamento do progresso real, além das horas estudadas.
+- Acompanhamento do progresso real, além das horas estudadas.
 
-Preservação do planejamento original para comparação com os ajustes posteriores.
+- Preservação do planejamento original para comparação com os ajustes posteriores.
 
 Optei por uma construção híbrida, na qual a IA implementou a ferramenta enquanto participei das decisões e busquei compreender seu funcionamento.
 
@@ -243,15 +244,16 @@ Optei por uma construção híbrida, na qual a IA implementou a ferramenta enqua
 
 O resultado foi uma ferramenta de gestão acadêmica desenvolvida no Google Planilhas, composta por cinco abas:
 
-Início;
+- Início;
 
-Cadastro de atividades;
+- Cadastro de atividades;
 
-Planejamento mensal;
+- Planejamento mensal;
 
-Registro de estudos;
+- Registro de estudos;
 
-Painel de acompanhamento.
+-Painel de acompanhamento.
+
 
 A solução permite organizar atividades, acompanhar metas semanais, registrar o progresso, analisar prazos e visualizar a disponibilidade de estudo.
 
@@ -259,13 +261,13 @@ A primeira versão apresentou uma estrutura de dados funcional, mas não era suf
 
 A segunda versão recebeu um dashboard visual com indicadores, seleção de semanas, atalhos de navegação e três gráficos:
 
-Distribuição das horas restantes por modalidade.
+- Distribuição das horas restantes por modalidade.
 
-Comparação entre horas planejadas, realizadas e limite semanal.
+- Comparação entre horas planejadas, realizadas e limite semanal.
 
-Percentual de progresso por atividade.
+- Percentual de progresso por atividade.
 
-O planejamento inicial contemplou 75 metas semanais distribuídas ao longo de 22 semanas, respeitando o limite de 15 horas semanais.
+- O planejamento inicial contemplou 75 metas semanais distribuídas ao longo de 22 semanas, respeitando o limite de 15 horas semanais.
 
 
 Utilizei como referência o checklist de validação apresentado nas aulas.
